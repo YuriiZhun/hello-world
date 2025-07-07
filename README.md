@@ -1,3 +1,3 @@
 # hello-world
-My test Hit repository
-I have added new line in this file.
+My test GitHub repository.
+I have added a new line in this file.
